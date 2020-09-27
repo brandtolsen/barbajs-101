@@ -3,7 +3,7 @@
     opacity: 0;
 }
 .home-once-active {
-    transition: opacity 1s linear;
+    transition: opacity 1s linear 0.3s;
 }
 .home-once-to {
     opacity: 1;
